@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20;
+    min-height: 100vh;
+
+}
